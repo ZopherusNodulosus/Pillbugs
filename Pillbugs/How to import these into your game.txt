@@ -1,0 +1,1 @@
+While in a world, open the CPM's menu and then go to models. Drag the .cpmmodel files into the game's list of models. The skins are here just as extra or incase something goes wrong. Feel free to modify a skin to your own liking but you will have to manually change the texture in the CPM's skin editor.
